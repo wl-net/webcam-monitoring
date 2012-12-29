@@ -6,9 +6,9 @@ Takes pictures from a webcam and copies to a remote location
 Installation
 ------------
 
-First, you must install [camshot](http://code.google.com/p/camshot/). Follow the installation instructions on the page, and make sure that the second example works.
-
-Then create a directory and place the camera-capture script in it.
+* Ensure that ImageMagick is installed and the `convert` utility is available.
+* Install [camshot](http://code.google.com/p/camshot/). Follow the installation instructions on the page, and make sure that the second example works.
+* Create a directory and place the camera-capture script in it.
 
 Configuration
 -------------
